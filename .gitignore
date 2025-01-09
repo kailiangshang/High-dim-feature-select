@@ -1,0 +1,7 @@
+*__pycache__
+*.png
+*.csv
+*.h5ad
+*.xlsx
+*.json
+*.log
