@@ -1,5 +1,4 @@
 import torch.nn as nn
-import lightning as pl
 
 
 class MLPClassifier(nn.Module):
